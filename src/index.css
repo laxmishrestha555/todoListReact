@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+.btn{
+    margin: 3px;
+    padding: 3px;
+}
+
+.btn:disabled{
+    opacity: 0.5;
+}
+@tailwind utilities;

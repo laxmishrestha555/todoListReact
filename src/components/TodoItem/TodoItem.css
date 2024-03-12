@@ -1,0 +1,30 @@
+.wrapperitem{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.btn1{
+    background-color: white;
+}
+
+.btn2{
+    background-color: white;
+}
+
+.textitem{
+    border: 2px solid red;
+
+}
+
+.container{
+    background-color:  rgb(13, 13, 50);
+
+    input{
+        border: none;
+        
+    }
+
+
+}

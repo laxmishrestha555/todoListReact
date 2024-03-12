@@ -1,0 +1,43 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    background-color:  rgb(13, 13, 50);
+    padding: 10px;
+    width: 50vh;
+    text-align: center; 
+    
+    
+
+      form{
+        background-color:  rgb(13, 13, 50);
+      }
+      
+  }
+  
+  
+  input {
+    background-color: rgb(13, 13, 50) ;
+    color: white;
+    padding: 8px;
+    border: 1px solid white;
+    font-size: 14px;
+  }
+  
+  .btn {
+    background-color: rgb(91, 72, 167);
+    color: #fff;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .btn:hover {
+    background-color: #45a049;
+  }
+  
